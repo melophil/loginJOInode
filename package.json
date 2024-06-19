@@ -1,0 +1,35 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "delta school",
+  "main": "index.js",
+  "scripts": {
+    "test": "code"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil-sidhu/node-js.git"
+  },
+  "keywords": [
+    "code",
+    "step"
+  ],
+  "author": "ayush rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anil-sidhu/node-js/issues"
+  },
+  "homepage": "https://github.com/anil-sidhu/node-js#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "joi": "^17.13.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.3",
+    "multer": "^1.4.5-lts.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
